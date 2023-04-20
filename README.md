@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🖥🎞 About Me:
 Hello, my name is johan 😄<br>Im studying full stack development 🤓<br>I have participated in labor works for the optimization of processes<br>Im looking for team working ✨
 
 
