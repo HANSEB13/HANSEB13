@@ -1,11 +1,4 @@
 
-<div id="header" align="'center">
-<img src="runny-run-homegiffy.gif" width="200" />
-<h1 align="center">🖥📱HANSEB🎞💻</h1>
-<h3 align="center"> A passinate web fullstack developer
-  </h3>
-</div>
-
 # 💫 About Me:
 Hello, my name is johan 😄<br>Im studying full stack development 🤓<br>I have participated in labor works for the optimization of processes<br>Im looking for team working ✨
 
