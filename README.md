@@ -1,5 +1,5 @@
 # 🖥🎞 Sobre Mi:
-Hello, my name is johan 😄<br>Im studying full stack development 🤓<br>I have participated in labor works for the optimization of processes<br>Im looking for team working ✨
+Hello, my name is johan 😄<br>Im full stack development 🤓<br>I have participated in labor works for the optimization of processes<br>Im looking for team working ✨
 
 
 ## 🌐 Redes Sociales:
